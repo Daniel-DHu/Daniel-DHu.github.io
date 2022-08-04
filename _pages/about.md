@@ -45,7 +45,7 @@ An apprenticeship and reinforcement learning scheme based on expert demonstratio
 <div class='paper-box'><div class='paper-box-image'><img src='images/DE_RL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep reinforcement learning based on driver experience embedding for energy management strategies in hybrid electric vehicles] (https://onlinelibrary.wiley.com/doi/epdf/10.1002/ente.202200123), **Dong Hu**, Yuanyuan Zhang
+Deep reinforcement learning based on driver experience embedding for energy management strategies in hybrid electric vehicles, **Dong Hu**, Yuanyuan Zhang
 
 **Energy Technology, 2022**
 -  We propose an advanced driver experience (DE) model of traffic congestion level and power matching constructed based on fuzzy clustering, then embed it into DRL.
