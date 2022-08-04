@@ -73,7 +73,7 @@ An apprenticeship and reinforcement learning scheme based on expert demonstratio
 - *2020.09 - 2023.03*, Master of Engineering, Power mechanical engineering , Tianjin University, Tianjin, China
 - *2016.09 - 2020.06*, Bachelor of Engineering, Marine Engineering, Wuhan University of technology, Wuhan, China
 
-# 📚 Research Topic
+# 📚 Research Topics
 - Driver modeling based on domain adaptive meta learning (DAML);
 - HEV energy management based on deep reinforcement learning (DRL) and apprenticeship learning (AL);
 - Torque distribution of four-driven EV based on DDPG;
