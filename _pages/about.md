@@ -29,7 +29,7 @@ In my research, I focus on the intersection between autonomous driving / traffic
 - *2021.06*: &nbsp;🎉🎉 We won the Gold Medal of 2021 World Intelligent Driving "HUAWEI MDC Cup" extreme challenge competition!
 - *2021.06*: &nbsp;🎉🎉 Our paper on multi-scale fusion speed prediction accepted by 40th Chinese Control Conference (CCC)!
 
-# 📝 Publications 
+# 📝 Highlights 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/ARL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -52,6 +52,21 @@ Deep reinforcement learning based on driver experience embedding for energy mana
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/HJY_V2X.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+Vehicle-road-edge-cloud collaboration system in Tianjin Haihe Education Park
+
+**Project:** Smart road and automatic driving
+-  Edge computing, big data
+-  Scene algorithm of vehicle road collaborative function
+-  Federated learning, reinforcement learning, automl and privacy computing
+-  Compression and optimization of deep learning model
+</div>
+</div>
+
+# 📝 Publications 
 ## Journal
 - [Deep reinforcement learning based on driver experience embedding for energy management strategies in hybrid electric vehicles](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ente.202200123), **Dong Hu**, Yuanyuan Zhang, **Energy Technology, 2022**
 
