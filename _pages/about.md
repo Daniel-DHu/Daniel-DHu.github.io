@@ -66,6 +66,19 @@ Vehicle-road-edge-cloud collaboration system in Tianjin Haihe Education Park
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/GQ.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+Energy efficiency optimization control of intelligent connected hybrid electric vehicle
+
+**Project:** Digital twin energy flow and smart travel
+-  Identify driving behavior characteristics and regulate driving style
+-  Predict future speed using multidimensional traffic information
+-  Active energy management, adapted to drivers and roads
+</div>
+</div>
+
 # 📝 Publications 
 ## Journal
 - [Deep reinforcement learning based on driver experience embedding for energy management strategies in hybrid electric vehicles](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ente.202200123), **Dong Hu**, Yuanyuan Zhang, **Energy Technology, 2022**
