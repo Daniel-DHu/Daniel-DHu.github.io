@@ -61,7 +61,7 @@ Vehicle-road-edge-cloud collaboration system in Tianjin Haihe Education Park
 **Project:** Smart road and automatic driving
 -  Edge computing, big data
 -  Scene algorithm of vehicle road collaborative function
--  Federated learning, reinforcement learning, automl and privacy computing
+-  Federated learning and reinforcement learning
 -  Compression and optimization of deep learning model
 </div>
 </div>
