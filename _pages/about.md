@@ -23,13 +23,13 @@ In my research, I focus on the intersection between autonomous driving / traffic
 
 **Skills:** Python (Sk-learn, Pytorch, Tensorflow), Matlab/Simulink, C/C++, Linux/ROS, IPG-CarMaker, SUMO
 
-# 🔥 News
+# 💬 News
 - *2022.04*: &nbsp;🎉🎉 Our paper on driving experience is embedded in reinforcement learning has been accepted by Energy Technology!
 - *2021.10*: &nbsp;🎉🎉 We won the Silver Medal of 2021 China (Shenyang) intelligent connected automobile prospective application competition!
 - *2021.06*: &nbsp;🎉🎉 We won the Gold Medal of 2021 World Intelligent Driving "HUAWEI MDC Cup" extreme challenge competition!
 - *2021.06*: &nbsp;🎉🎉 Our paper on multi-scale fusion speed prediction accepted by 40th Chinese Control Conference (CCC)!
 
-# 📝 Highlights 
+# 🔥 Highlights 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/ARL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
