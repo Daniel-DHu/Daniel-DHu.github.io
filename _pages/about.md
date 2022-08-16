@@ -58,7 +58,7 @@ Deep reinforcement learning based on driver experience embedding for energy mana
 
 Vehicle-road-edge-cloud collaboration system in Tianjin Haihe Education Park
 
-**Project:** Smart road and automatic driving
+**Project: Smart road and automatic driving**
 -  Edge computing, big data
 -  Scene algorithm of vehicle road collaborative function
 -  Federated learning and reinforcement learning
@@ -72,7 +72,7 @@ Vehicle-road-edge-cloud collaboration system in Tianjin Haihe Education Park
 
 Energy efficiency optimization control of intelligent connected hybrid electric vehicle
 
-**Project:** Digital twin energy flow and smart travel
+**Project: Digital twin energy flow and smart travel**
 -  Identify driving behavior characteristics and regulate driving style
 -  Predict future speed using multidimensional traffic information
 -  Active energy management, adapted to drivers and roads
