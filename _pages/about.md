@@ -99,6 +99,7 @@ Energy efficiency optimization control of intelligent connected hybrid electric 
 - 2020.06 World Intelligent Driving Challenge competition, Excellence Award
 
 # 📖 Educations
+- *2023.09 - Today*, PhD, The Hong Kong Polytechnic University, Hong Kong, China
 - *2020.09 - 2023.03*, Master of Engineering, Power mechanical engineering , Tianjin University, Tianjin, China
 - *2016.09 - 2020.06*, Bachelor of Engineering, Marine Engineering, Wuhan University of technology, Wuhan, China
 
