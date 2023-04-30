@@ -24,6 +24,7 @@ In my research, I focus on the intersection between autonomous driving / traffic
 **Skills:** Python (Sk-learn, Pytorch, Tensorflow), Matlab/Simulink, C/C++, Linux/ROS, IPG-CarMaker, SUMO
 
 # 💬 News
+- *2023.04*: &nbsp;🎉🎉 Our article An apprenticeship-reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicles will be published in Applied Energy!
 - *2022.04*: &nbsp;🎉🎉 Our paper on driving experience is embedded in reinforcement learning has been accepted by Energy Technology!
 - *2021.10*: &nbsp;🎉🎉 We won the Silver Medal of 2021 China (Shenyang) intelligent connected automobile prospective application competition!
 - *2021.06*: &nbsp;🎉🎉 We won the Gold Medal of 2021 World Intelligent Driving "HUAWEI MDC Cup" extreme challenge competition!
@@ -36,7 +37,7 @@ In my research, I focus on the intersection between autonomous driving / traffic
 
 An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle, **Dong Hu**, Hui Xie, etc.
 
-**Applied Energy, submitted**
+**Applied Energy, accepted**
 -  We propose an apprenticeship-reinforcement learning (A-RL) framework based on expert demonstration model learned by domain adaptive meta-learning (DAML).
 </div>
 </div>
