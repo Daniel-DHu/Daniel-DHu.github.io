@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master, candidate in the school of mechanical engineering at Tianjin University. I am working in the Intelligent Vehicle Research Center.
+I am currently a PhD student, candidate in the school of ISE at The Hong Kong Polytechnic University, and my supervisor is Dr. Chao Huang. 
 
-In my research, I focus on the intersection between autonomous driving / traffic flow and machine learning, with the aim of developing algorithms and techniques that can endow the interaction between traffic vehicles safer, more efficient and economical. In particular, my research interests include deep learning, reinforcement learning and game theory with the application to autonomous driving / traffic flow decision-making, prediction, planning, and energy efficiency optimization. 
+In my research, I focus on the intersection between autonomous / eco- driving and machine learning, with the aim of developing algorithms and techniques that can endow the interaction between traffic vehicles safer, more efficient and economical. In particular, my research interests include deep learning, reinforcement learning and game theory with the application to autonomous driving / traffic flow decision-making, prediction, planning, and energy efficiency optimization. 
 
 **Skills:** Python (Sk-learn, Pytorch, Tensorflow), Matlab/Simulink, C/C++, Linux/ROS, IPG-CarMaker, SUMO
 
