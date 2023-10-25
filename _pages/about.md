@@ -23,7 +23,7 @@ In my research, I focus on the intersection between intelligent vehicles / mobil
 
 
 # 💬 News
-- *2023.09*: &nbsp;🎉🎉 I have joined the Hong Kong Polytechnic University and am about to embark on my PhD career. Wishing me a bright future!
+- *2023.09*: &nbsp;🎉🎉 I have joined PolyU and am about to embark on my PhD career. Wishing me a bright future!
 - *2023.04*: &nbsp;🎉🎉 Our article An apprenticeship-reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicles will be published in Applied Energy!
 - *2022.04*: &nbsp;🎉🎉 Our paper on driving experience is embedded in reinforcement learning has been accepted by Energy Technology!
 - *2021.10*: &nbsp;🎉🎉 We won the Silver Medal of 2021 China (Shenyang) intelligent connected automobile prospective application competition!
