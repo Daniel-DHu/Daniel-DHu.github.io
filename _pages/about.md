@@ -24,7 +24,7 @@ In my research, I focus on the intersection between intelligent vehicles / mobil
 
 # 💬 News
 - *2023.09*: &nbsp;🎉🎉 I have joined PolyU and am about to embark on my PhD career. Wishing me a bright future!
-- *2023.04*: &nbsp;🎉🎉 Our article An apprenticeship-reinforcement learning for energy management strategy has been accepted by Applied Energy(APEN)!
+- *2023.04*: &nbsp;🎉🎉 Our article on apprenticeship-reinforcement learning for energy management has been accepted by Applied Energy(APEN)!
 - *2022.04*: &nbsp;🎉🎉 Our paper on driving experience is embedded in reinforcement learning has been accepted by Energy Technology!
 - *2021.10*: &nbsp;🎉🎉 We won the Silver Medal of 2021 China (Shenyang) intelligent connected automobile prospective application competition!
 - *2021.06*: &nbsp;🎉🎉 We won the Gold Medal of 2021 World Intelligent Driving "HUAWEI MDC Cup" extreme challenge competition!
