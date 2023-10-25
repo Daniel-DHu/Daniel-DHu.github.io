@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD student, candidate in the school of ISE at The Hong Kong Polytechnic University, and my supervisor is Dr. Chao Huang. 
+I am currently a PhD student, candidate in the Department of Industrial and Systems Engineering (ISE) at The Hong Kong Polytechnic University (PolyU), studenting in the [Human-Oriented Intelligent Systems Lab (HOIS)](https://www.chaohuang.net/), and my supervisor is Dr. Chao Huang. 
 
-In my research, I focus on the intersection between autonomous / eco- driving and machine learning, with the aim of developing algorithms and techniques that can endow the interaction between traffic vehicles safer, more efficient and economical. In particular, my research interests include deep learning, reinforcement learning and game theory with the application to autonomous driving / traffic flow decision-making, prediction, planning, and energy efficiency optimization. 
+In my research, I focus on the intersection between intelligent vehicles / mobile robot and machine learning, with the aim of developing algorithms that can endow agent safer, more efficient and economical. In particular, my research interests include deep learning, reinforcement learning and control theory with the application to decision-making, planning, prediction and energy optimization. 
 
-**Skills:** Python (Sk-learn, Pytorch, Tensorflow), Matlab/Simulink, C/C++, Linux/ROS, IPG-CarMaker, SUMO
 
 # 💬 News
+- *2023.09*: &nbsp;🎉🎉 I have joined the Hong Kong Polytechnic University and am about to embark on my PhD career. Wishing me a bright future!
 - *2023.04*: &nbsp;🎉🎉 Our article An apprenticeship-reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicles will be published in Applied Energy!
 - *2022.04*: &nbsp;🎉🎉 Our paper on driving experience is embedded in reinforcement learning has been accepted by Energy Technology!
 - *2021.10*: &nbsp;🎉🎉 We won the Silver Medal of 2021 China (Shenyang) intelligent connected automobile prospective application competition!
@@ -37,7 +37,7 @@ In my research, I focus on the intersection between autonomous / eco- driving an
 
 An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle, **Dong Hu**, Hui Xie, etc.
 
-**Applied Energy, accepted**
+**Applied Energy, 2023**
 -  We propose an apprenticeship-reinforcement learning (A-RL) framework based on expert demonstration model learned by domain adaptive meta-learning (DAML).
 </div>
 </div>
@@ -103,14 +103,7 @@ Energy efficiency optimization control of intelligent connected hybrid electric 
 - *2020.09 - 2023.03*, Master of Engineering, Power mechanical engineering , Tianjin University, Tianjin, China
 - *2016.09 - 2020.06*, Bachelor of Engineering, Marine Engineering, Wuhan University of technology, Wuhan, China
 
-# 📚 Research Topics
-- Driver modeling based on domain adaptive meta learning (DAML);
-- HEV energy management based on deep reinforcement learning (DRL) and apprenticeship learning (AL);
-- Torque distribution of four-driven EV based on DDPG;
-- Speed planning of connected vehicles based on DDPG and PPO;
-- Traffic signal planning based on DQN;
-- Intersection speed planning based on MPC;
-- Driving style recognition based on convolution recurrent network (CRNN); 
-- Global speed prediction based on Gaussian process regression (GPR); 
-- Instantaneous speed prediction based on long-term and short-term memory (LSTM) network; 
-- Iterative fusion algorithm based on Markov chain.
+# 📚 Academic Services
+*Journal Reviewer*
+- IEEE Transactions on Intelligent Vehicles
+- IEEE Transactions on Automation Science and Engineering
