@@ -19,10 +19,12 @@ redirect_from:
 
 I am currently a PhD student, candidate in the Department of Industrial and Systems Engineering (ISE) at The Hong Kong Polytechnic University (PolyU), studenting in the [Human-Oriented Intelligent Systems Lab (HOIS)](https://www.chaohuang.net/), and my supervisor is Dr. Chao Huang. 
 
-In my research, I focus on the intersection between intelligent vehicles / mobile robot and machine learning, with the aim of developing algorithms that can endow agent safer, more efficient and economical. In particular, my research interests include deep learning, reinforcement learning and control theory with the application to decision-making, planning, prediction and energy optimization. 
+In my research, I focus on the intersection between reinforcement learning (RL) and autonomous vehicles (AVs), with the aim of developing algorithms that can endow agent safer, more efficient and economical. In particular, my research interests include reinforcement learning algorithm, behavioral decision-making/planning of AVs, and data-driven energy management of electrified vehicles. 
 
 
 # 💬 News
+- *2023.12*: &nbsp;🎉🎉 Our article on Transfer-based reinforcement learning for energy management has been accepted by Energy!
+- *2023.11*: &nbsp;🎉🎉I have honored with the Best Student Paper Award at the conference [CEVVE](https://www.cevve.org/) held in Shenzhen, China. 
 - *2023.09*: &nbsp;🎉🎉 I have joined PolyU and am about to embark on my PhD career. Wishing me a bright future!
 - *2023.04*: &nbsp;🎉🎉 Our article on apprenticeship-reinforcement learning for energy management has been accepted by Applied Energy(APEN)!
 - *2022.04*: &nbsp;🎉🎉 Our paper on driving experience is embedded in reinforcement learning has been accepted by Energy Technology!
@@ -43,42 +45,18 @@ An apprenticeship and reinforcement learning scheme based on expert demonstratio
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/DE_RL.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/ARL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-Deep reinforcement learning based on driver experience embedding for energy management strategies in hybrid electric vehicles, **Dong Hu**, Yuanyuan Zhang
+An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle, **Dong Hu**, Hui Xie, etc.
 
-**Energy Technology, 2022**
--  We propose an advanced driver experience (DE) model of traffic congestion level and power matching constructed based on fuzzy clustering, then embed it into DRL.
+**Applied Energy, 2023**
+-  We propose an apprenticeship-reinforcement learning (A-RL) framework based on expert demonstration model learned by domain adaptive meta-learning (DAML).
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/HJY_V2X.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
 
-Vehicle-road-edge-cloud collaboration system in Tianjin Haihe Education Park
-
-**Project: Smart road and automatic driving**
--  Edge computing, big data
--  Scene algorithm of vehicle road collaborative function
--  Federated learning and reinforcement learning
--  Compression and optimization of deep learning model
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/GQ.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-Energy efficiency optimization control of intelligent connected hybrid electric vehicle
-
-**Project: Digital twin energy flow and smart travel**
--  Identify driving behavior characteristics and regulate driving style
--  Predict future speed using multidimensional traffic information
--  Active energy management, adapted to drivers and roads
-</div>
-</div>
 
 # 📝 Publications 
 ## Journal
