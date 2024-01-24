@@ -34,13 +34,13 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 # 🔥 Highlights 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/ARL.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/TRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle, **Dong Hu**, Hui Xie, etc.
+[A transfer-based reinforcement learning collaborative energy management strategy for extended-range electric buses with cabin temperature comfort consideration](https://www.sciencedirect.com/science/article/pii/S0360544223034916), **Dong Hu**, Chao Huang, etc.
 
-**Applied Energy, 2023**
--  We propose an apprenticeship-reinforcement learning (A-RL) framework based on expert demonstration model learned by domain adaptive meta-learning (DAML).
+**Energy, 2023**
+-  We propose a collaborative energy management strategy for air conditioning and power systems based on transfer-based reinforcement learning framework.
 </div>
 </div>
 
@@ -48,7 +48,7 @@ An apprenticeship and reinforcement learning scheme based on expert demonstratio
 <div class='paper-box'><div class='paper-box-image'><img src='images/ARL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle, **Dong Hu**, Hui Xie, etc.
+[An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle](https://www.sciencedirect.com/science/article/pii/S0306261923005913), **Dong Hu**, Hui Xie, etc.
 
 **Applied Energy, 2023**
 -  We propose an apprenticeship-reinforcement learning (A-RL) framework based on expert demonstration model learned by domain adaptive meta-learning (DAML).
@@ -60,6 +60,8 @@ An apprenticeship and reinforcement learning scheme based on expert demonstratio
 
 # 📝 Publications 
 ## Journal
+- [A transfer-based reinforcement learning collaborative energy management strategy for extended-range electric buses with cabin temperature comfort consideration](https://www.sciencedirect.com/science/article/pii/S0360544223034916), **Dong Hu**, Chao Huang, Guodong Yin, Yangmin Li, Yue Huang, Hailong Huang, Jingda Wu, Wenfei Li, Hui Xie **Energy, 2023**
+
 - [An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle](https://www.sciencedirect.com/science/article/pii/S0306261923005913), **Dong Hu**, Hui Xie, Kang Song, Yuanyuan Zhang, Long Yan, **Applied Energy, 2023**
 
 - [Deep reinforcement learning based on driver experience embedding for energy management strategies in hybrid electric vehicles](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ente.202200123), **Dong Hu**, Yuanyuan Zhang, **Energy Technology, 2022**
@@ -69,6 +71,8 @@ An apprenticeship and reinforcement learning scheme based on expert demonstratio
 - [A Novel Hydrophilic PVA Fiber Reinforced Thermoplastic Polyurethane Materials for Water-lubricated Stern Bearing](https://link.springer.com/article/10.1007/s12221-021-0013-2), **Dong Hu**, Zhiwei Guo, Tian Jun, Chengqing Yuan, **Fibers and Polymers, 2021**
 
 ## Conference
+- Enhancing autonomous driving following motion decision-making through model-based policy optimization, **Dong Hu**, Zhipeng Shen, Chao Huang, Hailong Huang, **International Conference on Electric Vehicle and Vehicle Engineering (CEVVE 2023), 2023**
+
 - An Iterative Optimization Algorithm for Vehicle Speed Prediction Considering Driving Style and Historical Data Effects, Hui Xie, **Dong Hu**, Kang Song, **40th Chinese Control Conference (CCC), 2021**
 
 # 🎖 Honors and Awards
