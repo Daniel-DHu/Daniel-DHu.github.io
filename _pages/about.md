@@ -24,7 +24,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 # 💬 News
 - *2023.12*: &nbsp;🎉🎉 Our article on Transfer-based reinforcement learning for energy management has been accepted by Energy!
-- *2023.11*: &nbsp;🎉🎉I have honored with the Best Student Paper Award at the conference [CEVVE](https://www.cevve.org/) held in Shenzhen, China. 
+- *2023.11*: &nbsp;🎉🎉 I have honored with the Best Student Paper Award at the conference [CEVVE](https://www.cevve.org/) held in Shenzhen, China. 
 - *2023.09*: &nbsp;🎉🎉 I have joined PolyU and am about to embark on my PhD career. Wishing me a bright future!
 - *2023.04*: &nbsp;🎉🎉 Our article on apprenticeship-reinforcement learning for energy management has been accepted by Applied Energy(APEN)!
 - *2022.04*: &nbsp;🎉🎉 Our paper on driving experience is embedded in reinforcement learning has been accepted by Energy Technology!
