@@ -100,3 +100,4 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 *Journal Reviewer*
 - IEEE Transactions on Intelligent Vehicles
 - IEEE Transactions on Automation Science and Engineering
+- Energy
