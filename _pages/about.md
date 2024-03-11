@@ -37,6 +37,17 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 <div class='paper-box'><div class='paper-box-image'><img src='images/TRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
+[Pre-trained Transformer-Enabled Strategies with Human-Guided Fine-Tuning for End-to-end Navigation of Autonomous Vehicles](https://arxiv.org/abs/2402.12666), **Dong Hu**, Chao Huang, Jingda Wu etc.
+
+**Preprint, 2024**
+-  This study proposes a new end-to-end training framework that combines pre-trained Transformers with human guided reinforcement learning fine-tuning.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/TRL.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
 [A transfer-based reinforcement learning collaborative energy management strategy for extended-range electric buses with cabin temperature comfort consideration](https://www.sciencedirect.com/science/article/pii/S0360544223034916), **Dong Hu**, Chao Huang, etc.
 
 **Energy, 2023**
