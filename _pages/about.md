@@ -34,7 +34,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 # 🔥 Highlights 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/TRL.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/PTRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Pre-trained Transformer-Enabled Strategies with Human-Guided Fine-Tuning for End-to-end Navigation of Autonomous Vehicles](https://arxiv.org/abs/2402.12666), **Dong Hu**, Chao Huang, Jingda Wu etc.
