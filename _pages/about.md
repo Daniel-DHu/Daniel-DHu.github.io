@@ -40,7 +40,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 [Pre-trained Transformer-Enabled Strategies with Human-Guided Fine-Tuning for End-to-end Navigation of Autonomous Vehicles](https://arxiv.org/abs/2402.12666), **Dong Hu**, Chao Huang, Jingda Wu etc.
 
 **Preprint, 2024**
--  This study proposes a new end-to-end training framework that combines pre-trained Transformers with human guided reinforcement learning fine-tuning.
+-  This study proposes a new autonomous vehicle end-to-end training framework that combines pre-trained Transformers with human guided reinforcement learning fine-tuning.
 </div>
 </div>
 
