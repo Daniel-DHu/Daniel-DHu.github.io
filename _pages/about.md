@@ -113,5 +113,5 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 - Energy
 
 *Conference Reviewer*
-IEEE Intelligent Transportation Systems Conference (ITSC) 2024 – 2025
+- IEEE Intelligent Transportation Systems Conference (ITSC) 2024 – 2025
 
