@@ -23,22 +23,29 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 
 # 💬 News
-- *2023.12*: &nbsp;🎉🎉 Our article on Transfer-based reinforcement learning for energy management has been accepted by Energy!
+- *2025.04*: &nbsp;🎉🎉 Congratulations on completing my PhD confirmation, and becoming a PhD candidate!
+- *2024.11*: &nbsp;🎉🎉 Our paper on expert-guided EMS for electrified vehicles has been accepted by Applied Energy (APEN)!
+- *2023.12*: &nbsp;🎉🎉 Our paper on Transfer-based reinforcement learning for energy management has been accepted by Energy!
 - *2023.11*: &nbsp;🎉🎉 I have honored with the Best Student Paper Award at the conference [CEVVE](https://www.cevve.org/) held in Shenzhen, China. 
 - *2023.09*: &nbsp;🎉🎉 I have joined PolyU and am about to embark on my PhD career. Wishing me a bright future!
-- *2023.04*: &nbsp;🎉🎉 Our article on apprenticeship-reinforcement learning for energy management has been accepted by Applied Energy(APEN)!
-- *2022.04*: &nbsp;🎉🎉 Our paper on driving experience is embedded in reinforcement learning has been accepted by Energy Technology!
+- *2023.04*: &nbsp;🎉🎉 Our paper on apprenticeship-reinforcement learning for energy management has been accepted by Applied Energy (APEN)!
 - *2021.10*: &nbsp;🎉🎉 We won the Silver Medal of 2021 China (Shenyang) intelligent connected automobile prospective application competition!
 - *2021.06*: &nbsp;🎉🎉 We won the Gold Medal of 2021 World Intelligent Driving "HUAWEI MDC Cup" extreme challenge competition!
-- *2021.06*: &nbsp;🎉🎉 Our paper on multi-scale fusion speed prediction accepted by 40th Chinese Control Conference (CCC)!
 
 # 🔥 Highlights 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/EGRL.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+[Enhancing data-driven energy management strategy via digital expert guidance for electrified vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924025224), **Dong Hu**, Chao Huang, Jingda Wu etc.
+**Applied Energy, 2025**
+-  This study proposes a new energy management strategy framework that combines digital expert guidance.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/PTRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-
 [Pre-trained Transformer-Enabled Strategies with Human-Guided Fine-Tuning for End-to-end Navigation of Autonomous Vehicles](https://arxiv.org/abs/2402.12666), **Dong Hu**, Chao Huang, Jingda Wu etc.
-
 **Preprint, 2024**
 -  This study proposes a new autonomous vehicle end-to-end training framework that combines pre-trained Transformers with human guided reinforcement learning fine-tuning.
 </div>
@@ -47,7 +54,6 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/TRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-
 [A transfer-based reinforcement learning collaborative energy management strategy for extended-range electric buses with cabin temperature comfort consideration](https://www.sciencedirect.com/science/article/pii/S0360544223034916), **Dong Hu**, Chao Huang, etc.
 
 **Energy, 2023**
