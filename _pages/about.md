@@ -77,6 +77,8 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 # 📝 Publications 
 ## Journal
+- [Enhancing data-driven energy management strategy via digital expert guidance for electrified vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924025224), **Dong Hu**, Chao Huang, Jingda Wu, Henglai Wei, Dawei Pi **Applied Energy, 2025**
+
 - [A transfer-based reinforcement learning collaborative energy management strategy for extended-range electric buses with cabin temperature comfort consideration](https://www.sciencedirect.com/science/article/pii/S0360544223034916), **Dong Hu**, Chao Huang, Guodong Yin, Yangmin Li, Yue Huang, Hailong Huang, Jingda Wu, Wenfei Li, Hui Xie **Energy, 2023**
 
 - [An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle](https://www.sciencedirect.com/science/article/pii/S0306261923005913), **Dong Hu**, Hui Xie, Kang Song, Yuanyuan Zhang, Long Yan, **Applied Energy, 2023**
@@ -104,6 +106,12 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 # 📚 Academic Services
 *Journal Reviewer*
-- IEEE Transactions on Intelligent Vehicles
-- IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Intelligent Vehicles (T-IV)
+- IEEE Transactions on Mobile Computing (T-MC)
+- IEEE Transactions on Vehicular Technology (T-VT)
+- IEEE Transactions on Automation Science and Engineering (T-ASE)
 - Energy
+
+*Conference Reviewer*
+IEEE Intelligent Transportation Systems Conference (ITSC) 2024 – 2025
+
