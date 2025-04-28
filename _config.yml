@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Dong Hu"
-description              : "Ph.D. student at PolyU, Focusing on Autonomous driving, Mobile robot and Reinforcement learning. "
-repository               : "Hyland236/hudong.github.io"
+description              : "Ph.D. student at PolyU, Focusing on Autonomous driving, Mobile robot and Motion planning. "
+repository               : "Daniel23-6/hudong.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,7 +27,7 @@ author:
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=b1T0nqoAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=b1T0nqoAAAAJ&hl=zh-CN&oi=ao"
   email            : "hudongchn@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Dong_Hu16"
   uri              :
