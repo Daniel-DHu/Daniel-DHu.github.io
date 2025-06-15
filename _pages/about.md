@@ -38,7 +38,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 <div class='paper-box'><div class='paper-box-image'><img src='images/frame_FogRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 [“Feariosity”-Guided Reinforcement Learning for Safe and Efficient Autonomous End-to-end Navigation](https://ieeexplore.ieee.org/abstract/document/11027413), **Dong Hu**, Longfei Mo, Jingda Wu, Chao Huang.
-** IEEE Robotics and Automation Letters (RA-L), 2025**
+**IEEE Robotics and Automation Letters (RA-L), 2025**
 -  Inspired by this scientific insight, we propose the “Feariosity” model, which integrates fear and curiosity model to simulate the complex psychological dynamics organisms experience during exploration. Based on this model, we also developed an innovative policy constraint and a new experience replay mechanism.
 </div>
 </div>
