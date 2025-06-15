@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Dong Hu"
-description              : "Ph.D. student at PolyU, Focusing on Autonomous driving, Mobile robot and Motion planning. "
-repository               : "Daniel23-6/hudong.github.io"
+description              : "Ph.D. candidate at PolyU, Focusing on Autonomous driving, Mobile robot and Motion planning. "
+repository               : "https://daniel-dhu.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
