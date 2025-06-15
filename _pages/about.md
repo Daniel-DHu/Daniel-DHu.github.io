@@ -23,6 +23,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 
 # 💬 News
+- *2025.05*: &nbsp;🎉🎉 Our paper on “Feariosity”-guided reinforcement learning has been accepted by IEEE RA-L!
 - *2025.04*: &nbsp;🎉🎉 Congratulations on completing my PhD confirmation, and becoming a PhD candidate!
 - *2024.11*: &nbsp;🎉🎉 Our paper on expert-guided EMS for electrified vehicles has been accepted by Applied Energy (APEN)!
 - *2023.12*: &nbsp;🎉🎉 Our paper on Transfer-based reinforcement learning for energy management has been accepted by Energy!
@@ -34,6 +35,14 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 # 🔥 Highlights 
 
+<div class='paper-box'><div class='paper-box-image'><img src='images/frame_FogRL.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+[“Feariosity”-Guided Reinforcement Learning for Safe and Efficient Autonomous End-to-end Navigation](https://ieeexplore.ieee.org/abstract/document/11027413), **Dong Hu**, Longfei Mo, Jingda Wu, Chao Huang.
+** IEEE Robotics and Automation Letters (RA-L), 2025**
+-  Inspired by this scientific insight, we propose the “Feariosity” model, which integrates fear and curiosity model to simulate the complex psychological dynamics organisms experience during exploration. Based on this model, we also developed an innovative policy constraint and a new experience replay mechanism.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><img src='images/EGRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 [Enhancing data-driven energy management strategy via digital expert guidance for electrified vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924025224), **Dong Hu**, Chao Huang, Jingda Wu etc.
@@ -42,7 +51,6 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 </div>
 </div>
 
-
 <div class='paper-box'><div class='paper-box-image'><img src='images/PTRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 [Pre-trained Transformer-Enabled Strategies with Human-Guided Fine-Tuning for End-to-end Navigation of Autonomous Vehicles](https://arxiv.org/abs/2402.12666), **Dong Hu**, Chao Huang, Jingda Wu etc.
@@ -50,7 +58,6 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 -  This study proposes a new autonomous vehicle end-to-end training framework that combines pre-trained Transformers with human guided reinforcement learning fine-tuning.
 </div>
 </div>
-
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/TRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -77,6 +84,8 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 # 📝 Publications 
 ## Journal
+- [“Feariosity”-Guided Reinforcement Learning for Safe and Efficient Autonomous End-to-end Navigation](https://ieeexplore.ieee.org/abstract/document/11027413), **Dong Hu**, Longfei Mo, Jingda Wu, Chao Huang. **IEEE Robotics and Automation Letters (RA-L), 2025**
+  
 - [Enhancing data-driven energy management strategy via digital expert guidance for electrified vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924025224), **Dong Hu**, Chao Huang, Jingda Wu, Henglai Wei, Dawei Pi **Applied Energy, 2025**
 
 - [A transfer-based reinforcement learning collaborative energy management strategy for extended-range electric buses with cabin temperature comfort consideration](https://www.sciencedirect.com/science/article/pii/S0360544223034916), **Dong Hu**, Chao Huang, Guodong Yin, Yangmin Li, Yue Huang, Hailong Huang, Jingda Wu, Wenfei Li, Hui Xie **Energy, 2023**
