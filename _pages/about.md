@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a PhD candidate in the Department of Industrial and Systems Engineering (ISE) at The Hong Kong Polytechnic University (PolyU), studenting in the [Human-Oriented Intelligent Systems Lab (HOIS)](https://www.chaohuang.net/), and my supervisor is Dr. Chao Huang. 
 
-In my research, I focus on the intersection between reinforcement learning (RL) and autonomous vehicles (AVs), with the aim of developing algorithms that can endow agent safer, more efficient and economical. In particular, my research interests include reinforcement learning, motion planning of AVs, and data-driven energy management of electrified vehicles. 
+In my research, I focus on the intersection between reinforcement learning (RL) and autonomous vehicles (AVs), with the aim of developing algorithms that can endow agent safer, more efficient and economical. In particular, my research interests include RL, motion planning of AVs, and energy management of electrified vehicles. 
 
 
 # 💬 News
