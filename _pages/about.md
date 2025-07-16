@@ -23,8 +23,9 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 
 # 💬 News
+- *2025.07*: &nbsp;🎉🎉 Our paper on Adaptative rollout model-based policy optimization has been accepted by IEEE TTE!
 - *2025.07*: &nbsp;🎉🎉 Our paper on Trust-calibrated human-in-the-loop reinforcement learning has been accepted by IEEE IOTJ!
-- *2025.07*: &nbsp;🎉🎉 Our paper on Generalizing navigation via adversarial reinforcement learning has been accepted by ITSC 2025, See you on the Gold Coast!
+- *2025.07*: &nbsp;🎉🎉 Our paper about Generalizing navigation has been accepted by ITSC 2025, See you on the Gold Coast!
 - *2025.05*: &nbsp;🎉🎉 Our paper on “Feariosity”-guided reinforcement learning has been accepted by IEEE RA-L!
 - *2025.04*: &nbsp;🎉🎉 Congratulations on completing my PhD confirmation, and becoming a PhD candidate!
 - *2024.11*: &nbsp;🎉🎉 Our paper on expert-guided EMS for electrified vehicles has been accepted by Applied Energy (APEN)!
