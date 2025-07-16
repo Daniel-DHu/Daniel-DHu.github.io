@@ -37,7 +37,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 # 🔥 Highlights 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/frame_MBPO.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-TE'25</div><img src='images/frame_MBPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/abstract/document/), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu.
 **IEEE Transactions on Transportation Electrification (TTE), 2025**
@@ -45,15 +45,15 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/frame_TCHIL.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IOTJ'25</div><img src='images/frame_TCHIL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Trust-Calibrated Human-in-the-Loop Reinforcement Learning for Safe and Efficient Autonomous Navigation](https://ieeexplore.ieee.org/document/11079651), **Dong Hu**, Guanzhong Zhou, Jingda Wu, Chao Huang.
 **IEEE Internet of Things Journal (IOTJ), 2025**
--  Human-in-the-loop (HIL) guidance has been shown to be effective in improving the performance of reinforcement learning (RL) algorithms. Existing methods in this field often assume that human guidance is always beneficial. However, incorrect guidance can cause oscillations or even divergences in RL training. In this study, we propose an innovative trust-calibrated HIL-RL approach to address these gaps. 
+-  Human-in-the-loop (HIL) guidance has been shown to be effective in improving the performance of RL algorithms. Existing methods in this field often assume that human guidance is always beneficial. However, incorrect guidance can cause oscillations or even divergences in training. We propose an innovative trust-calibrated HIL-RL approach to address these gaps. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/frame_FogRL.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L'25</div><img src='images/frame_FogRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [“Feariosity”-Guided Reinforcement Learning for Safe and Efficient Autonomous End-to-end Navigation](https://ieeexplore.ieee.org/abstract/document/11027413), **Dong Hu**, Longfei Mo, Jingda Wu, Chao Huang.
 **IEEE Robotics and Automation Letters (RA-L), 2025**
@@ -61,7 +61,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/EGRL.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN'25</div><img src='images/EGRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Enhancing data-driven energy management strategy via digital expert guidance for electrified vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924025224), **Dong Hu**, Chao Huang, Jingda Wu etc.
 **Applied Energy, 2025**
@@ -69,15 +69,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/PTRL.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-[Pre-trained Transformer-Enabled Strategies with Human-Guided Fine-Tuning for End-to-end Navigation of Autonomous Vehicles](https://arxiv.org/abs/2402.12666), **Dong Hu**, Chao Huang, Jingda Wu etc.
-**Preprint, 2024**
--  This study proposes a new autonomous vehicle end-to-end training framework that combines pre-trained Transformers with human guided reinforcement learning fine-tuning.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><img src='images/TRL.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EGY'24</div><img src='images/TRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A transfer-based reinforcement learning collaborative energy management strategy for extended-range electric buses with cabin temperature comfort consideration](https://www.sciencedirect.com/science/article/pii/S0360544223034916), **Dong Hu**, Chao Huang, etc.
 
@@ -87,7 +79,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/ARL.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN'24</div><img src='images/ARL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle](https://www.sciencedirect.com/science/article/pii/S0306261923005913), **Dong Hu**, Hui Xie, etc.
