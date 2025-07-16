@@ -33,10 +33,25 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 - *2023.11*: &nbsp;🎉🎉 I have honored with the Best Student Paper Award at the conference [CEVVE](https://www.cevve.org/) held in Shenzhen, China. 
 - *2023.09*: &nbsp;🎉🎉 I have joined PolyU and am about to embark on my PhD career. Wishing me a bright future!
 - *2023.04*: &nbsp;🎉🎉 Our paper on apprenticeship-reinforcement learning for energy management has been accepted by Applied Energy (APEN)!
-- *2021.10*: &nbsp;🎉🎉 We won the Silver Medal of 2021 China (Shenyang) intelligent connected automobile prospective application competition!
-- *2021.06*: &nbsp;🎉🎉 We won the Gold Medal of 2021 World Intelligent Driving "HUAWEI MDC Cup" extreme challenge competition!
+
 
 # 🔥 Highlights 
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/frame_MBPO.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+[Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/abstract/document/), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu.
+**IEEE Transactions on Transportation Electrification (TTE), 2025**
+-  we propose an adaptive rollout model-based policy optimization (AR-MBPO) algorithm tailored for car-following motion planning in autonomous electric vehicles (AEVs). The algorithm improves overall performance by incorporating a error-aware ensemble environment model and leveraging branched rollouts for efficient sample collection and policy optimization.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/frame_TCHIL.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+[Trust-Calibrated Human-in-the-Loop Reinforcement Learning for Safe and Efficient Autonomous Navigation](https://ieeexplore.ieee.org/document/11079651), **Dong Hu**, Guanzhong Zhou, Jingda Wu, Chao Huang.
+**IEEE Internet of Things Journal (IOTJ), 2025**
+-  Human-in-the-loop (HIL) guidance has been shown to be effective in improving the performance of reinforcement learning (RL) algorithms. Existing methods in this field often assume that human guidance is always beneficial. However, incorrect guidance can cause oscillations or even divergences in RL training. In this study, we propose an innovative trust-calibrated HIL-RL approach to address these gaps. 
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/frame_FogRL.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
