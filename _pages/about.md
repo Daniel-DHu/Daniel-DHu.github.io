@@ -79,7 +79,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN'24</div><img src='images/ARL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN'23</div><img src='images/ARL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle](https://www.sciencedirect.com/science/article/pii/S0306261923005913), **Dong Hu**, Hui Xie, etc.
