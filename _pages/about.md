@@ -23,6 +23,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 
 # 💬 News
+- *2025.07*: &nbsp;🎉🎉 Our paper on Human-in-the-loop adversarial RL with diffusion policy has been accepted by IEEE T-ITS!
 - *2025.07*: &nbsp;🎉🎉 Our paper on Adaptative rollout model-based policy optimization has been accepted by IEEE TTE!
 - *2025.07*: &nbsp;🎉🎉 Our paper on Trust-calibrated human-in-the-loop reinforcement learning has been accepted by IEEE IOTJ!
 - *2025.07*: &nbsp;🎉🎉 Our paper about Generalizing navigation has been accepted by ITSC 2025, See you on the Gold Coast!
@@ -32,16 +33,24 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 - *2023.12*: &nbsp;🎉🎉 Our paper on Transfer-based reinforcement learning for energy management has been accepted by Energy!
 - *2023.11*: &nbsp;🎉🎉 I have honored with the Best Student Paper Award at the conference [CEVVE](https://www.cevve.org/) held in Shenzhen, China. 
 - *2023.09*: &nbsp;🎉🎉 I have joined PolyU and am about to embark on my PhD career. Wishing me a bright future!
-- *2023.04*: &nbsp;🎉🎉 Our paper on apprenticeship-reinforcement learning for energy management has been accepted by Applied Energy (APEN)!
+- *2023.04*: &nbsp;🎉🎉 Our paper on Apprenticeship-reinforcement learning for EMS has been accepted by Applied Energy (APEN)!
 
 
 # 🔥 Highlights 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS'25</div><img src='images/frame_HardP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Towards Multi-Task Generalization in Autonomous Navigation: a Human-in-the-Loop Adversarial Reinforcement Learning with Diffusion Policy](https://ieeexplore.ieee.org/abstract/document/), **Dong Hu**, Chao Huang, Jingda Wu and Xin Yuan.
+**IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
+-  A novel human-in-the-loop adversarial RL with diffusion policy (Hard-P) is proposed to improve the performance of autonomous navigation. The diffusion policy acts as a powerful behavior generator that captures multi-modal action distributions in high-dimensional spaces. However, training such diffusion models in online RL can be unstable and sample-inefficient. To address this, human guidance is incorporated into the learning process, effectively stabilizing policy updates and accelerating convergence. In addition, adversarial training is introduced to enhance robustness and adaptability across dynamic, multi-task environments.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-TE'25</div><img src='images/frame_MBPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/abstract/document/), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu.
+[Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/document/11083629), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu.
 **IEEE Transactions on Transportation Electrification (TTE), 2025**
--  we propose an adaptive rollout model-based policy optimization (AR-MBPO) algorithm tailored for car-following motion planning in autonomous electric vehicles (AEVs). The algorithm improves overall performance by incorporating a error-aware ensemble environment model and leveraging branched rollouts for efficient sample collection and policy optimization.
+-  We propose an adaptive rollout model-based policy optimization (AR-MBPO) algorithm tailored for car-following motion planning in autonomous electric vehicles. The algorithm improves overall performance by incorporating a error-aware ensemble environment model and leveraging branched rollouts for efficient sample collection and policy optimization.
 </div>
 </div>
 
@@ -94,6 +103,13 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 
 # 📝 Publications 
 ## Journal
+
+- [Towards Multi-Task Generalization in Autonomous Navigation: a Human-in-the-Loop Adversarial Reinforcement Learning with Diffusion Policy](https://ieeexplore.ieee.org/abstract/document/), **Dong Hu**, Chao Huang, Jingda Wu and Xin Yuan. **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
+
+-  [Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/document/11083629), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu. **IEEE Transactions on Transportation Electrification (TTE), 2025**
+
+- [Trust-Calibrated Human-in-the-Loop Reinforcement Learning for Safe and Efficient Autonomous Navigation](https://ieeexplore.ieee.org/document/11079651), **Dong Hu**, Guanzhong Zhou, Jingda Wu, Chao Huang. **IEEE Internet of Things Journal (IOTJ), 2025**
+
 - [“Feariosity”-Guided Reinforcement Learning for Safe and Efficient Autonomous End-to-end Navigation](https://ieeexplore.ieee.org/abstract/document/11027413), **Dong Hu**, Longfei Mo, Jingda Wu, Chao Huang. **IEEE Robotics and Automation Letters (RA-L), 2025**
   
 - [Enhancing data-driven energy management strategy via digital expert guidance for electrified vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924025224), **Dong Hu**, Chao Huang, Jingda Wu, Henglai Wei, Dawei Pi **Applied Energy, 2025**
