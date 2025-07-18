@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a PhD candidate in the Department of Industrial and Systems Engineering (ISE) at The Hong Kong Polytechnic University (PolyU), studenting in the [Human-Oriented Intelligent Systems Lab (HOIS)](https://www.chaohuang.net/), and my supervisor is Dr. Chao Huang. 
+I’m currently a PhD candidate in the Department of Industrial and Systems Engineering (ISE) at The Hong Kong Polytechnic University (PolyU), where I hang out in the [Human-Oriented Intelligent Systems Lab (HOIS)](https://www.chaohuang.net/) under the wise (and patient) guidance of Dr. Chao Huang. Excitingly, I’m about to embark on a research exchange at the University of New South Wales (UNSW), where I’ll have the privilege of working under the guidance of the brilliant Prof. Andrey V. Savkin. New adventures, new ideas!
 
-In my research, I focus on the intersection between reinforcement learning (RL) and autonomous vehicles (AVs), with the aim of developing algorithms that can endow agent safer, more efficient and economical. In particular, my research interests include RL, motion planning of AVs, and energy management of electrified vehicles. 
+My research lives at the crossroads of reinforcement learning (RL) and autonomous vehicles (AVs)—think of it as teaching cars to be smarter, safer, and thriftier, all without needing coffee breaks. Specifically, I’m diving into RL, motion planning for AVs (because nobody likes a car that hesitates at intersections), and energy management for electrified vehicles (saving watts like a pro).
 
 
 # 💬 News
@@ -42,7 +42,7 @@ In my research, I focus on the intersection between reinforcement learning (RL) 
 <div class='paper-box-text' markdown="1">
 [Towards Multi-Task Generalization in Autonomous Navigation: a Human-in-the-Loop Adversarial Reinforcement Learning with Diffusion Policy](https://ieeexplore.ieee.org/abstract/document/), **Dong Hu**, Chao Huang, Jingda Wu and Xin Yuan.
 **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
--  A novel human-in-the-loop adversarial RL with diffusion policy (Hard-P) is proposed to improve the performance of autonomous navigation. The diffusion policy acts as a powerful behavior generator that captures multi-modal action distributions in high-dimensional spaces. However, training such diffusion models in online RL can be unstable and sample-inefficient. To address this, human guidance is incorporated into the learning process, effectively stabilizing policy updates and accelerating convergence. In addition, adversarial training is introduced to enhance robustness and adaptability across dynamic, multi-task environments.
+-  A novel human-in-the-loop adversarial RL with diffusion policy (Hard-P) is proposed to improve the performance of autonomous navigation. Training Diffusion models in online RL can be unstable and sample-inefficient. To address this, human guidance is incorporated into the learning process, effectively stabilizing policy updates and accelerating convergence. In addition, adversarial training is introduced to enhance robustness and adaptability across dynamic, multi-task environments.
 </div>
 </div>
 
