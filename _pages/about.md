@@ -135,6 +135,7 @@ My research lives at the crossroads of reinforcement learning (RL) and autonomou
 - IEEE Transactions on Mobile Computing (T-MC)
 - IEEE Transactions on Vehicular Technology (T-VT)
 - IEEE Transactions on Automation Science and Engineering (T-ASE)
+- Applied Energy
 - Energy
 
 *Conference Reviewer*
