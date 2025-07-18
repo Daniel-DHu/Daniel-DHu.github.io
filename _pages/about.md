@@ -24,8 +24,8 @@ My research lives at the crossroads of reinforcement learning (RL) and autonomou
 
 # 💬 News
 - *2025.07*: &nbsp;🎉🎉 Our paper on Human-in-the-loop adversarial RL with diffusion policy has been accepted by IEEE T-ITS!
-- *2025.07*: &nbsp;🎉🎉 Our paper on Adaptative rollout model-based policy optimization has been accepted by IEEE TTE!
-- *2025.07*: &nbsp;🎉🎉 Our paper on Trust-calibrated human-in-the-loop reinforcement learning has been accepted by IEEE IOTJ!
+- *2025.07*: &nbsp;🎉🎉 Our paper on Adaptative rollout model-based policy optimization has been accepted by IEEE T-TE!
+- *2025.07*: &nbsp;🎉🎉 Our paper on Trust-calibrated human-in-the-loop reinforcement learning has been accepted by IEEE IOT-J!
 - *2025.07*: &nbsp;🎉🎉 Our paper about Generalizing navigation has been accepted by ITSC 2025, See you on the Gold Coast!
 - *2025.05*: &nbsp;🎉🎉 Our paper on “Feariosity”-guided reinforcement learning has been accepted by IEEE RA-L!
 - *2025.04*: &nbsp;🎉🎉 Congratulations on completing my PhD confirmation, and becoming a PhD candidate!
