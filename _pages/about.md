@@ -40,9 +40,9 @@ My research lives at the crossroads of reinforcement learning (RL) and autonomou
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS'25</div><img src='images/frame_HardP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Towards Multi-Task Generalization in Autonomous Navigation: a Human-in-the-Loop Adversarial Reinforcement Learning with Diffusion Policy](https://ieeexplore.ieee.org/abstract/document/), **Dong Hu**, Chao Huang, Jingda Wu and Xin Yuan.
+[Towards Multi-Task Generalization in Autonomous Navigation: a Human-in-the-Loop Adversarial Reinforcement Learning with Diffusion Policy](https://ieeexplore.ieee.org/document/11106367), **Dong Hu**, Chao Huang, Jingda Wu and Xin Yuan.
 **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
--  A novel human-in-the-loop adversarial RL with diffusion policy (Hard-P) is proposed to improve the performance of autonomous navigation. Training Diffusion models in online RL can be unstable and sample-inefficient. To address this, human guidance is incorporated into the learning process, effectively stabilizing policy updates and accelerating convergence. In addition, adversarial training is introduced to enhance robustness and adaptability across dynamic, multi-task environments.
+-  A novel human-in-the-loop adversarial RL with diffusion policy (Hard-P) is proposed. Training Diffusion models in online RL can be unstable and sample-inefficient. To address this, human guidance is incorporated into the learning process, effectively stabilizing policy updates and accelerating convergence. In addition, adversarial training is introduced to enhance robustness and adaptability across dynamic, multi-task environments.
 </div>
 </div>
 
@@ -104,7 +104,7 @@ My research lives at the crossroads of reinforcement learning (RL) and autonomou
 # 📝 Publications 
 ## Journal
 
-- [Towards Multi-Task Generalization in Autonomous Navigation: a Human-in-the-Loop Adversarial Reinforcement Learning with Diffusion Policy](https://ieeexplore.ieee.org/abstract/document/), **Dong Hu**, Chao Huang, Jingda Wu and Xin Yuan. **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
+- [Towards Multi-Task Generalization in Autonomous Navigation: a Human-in-the-Loop Adversarial Reinforcement Learning with Diffusion Policy](https://ieeexplore.ieee.org/document/11106367), **Dong Hu**, Chao Huang, Jingda Wu and Xin Yuan. **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
 -  [Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/document/11083629), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu. **IEEE Transactions on Transportation Electrification (T-TE), 2025**
 - [Trust-Calibrated Human-in-the-Loop Reinforcement Learning for Safe and Efficient Autonomous Navigation](https://ieeexplore.ieee.org/document/11079651), **Dong Hu**, Guanzhong Zhou, Jingda Wu, Chao Huang. **IEEE Internet of Things Journal (IOT-J), 2025**
 - [“Feariosity”-Guided Reinforcement Learning for Safe and Efficient Autonomous End-to-end Navigation](https://ieeexplore.ieee.org/abstract/document/11027413), **Dong Hu**, Longfei Mo, Jingda Wu, Chao Huang. **IEEE Robotics and Automation Letters (RA-L), 2025**
