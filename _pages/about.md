@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a PhD candidate in the Department of Industrial and Systems Engineering (ISE) at The Hong Kong Polytechnic University (PolyU), where I hang out in the [Human-Oriented Intelligent Systems Lab (HOIS)](https://www.chaohuang.net/) under the wise (and patient) guidance of Dr. Chao Huang. Excitingly, I’m about to embark on a research exchange at the University of New South Wales (UNSW), where I’ll have the privilege of working under the guidance of the brilliant Prof. Andrey V. Savkin. New adventures, new ideas!
+I’m currently a PhD candidate in the Department of Industrial and Systems Engineering (ISE) at The Hong Kong Polytechnic University (PolyU), where I hang out in the [Human-Oriented Intelligent Systems Lab (HOIS)](https://www.chaohuang.net/) under the wise (and patient) guidance of Dr. Chao Huang. 
 
 My research lives at the crossroads of reinforcement learning (RL) and autonomous vehicles (AVs)—think of it as teaching cars to be smarter, safer, and thriftier, all without needing coffee breaks. Specifically, I’m diving into RL, motion planning for AVs (because nobody likes a car that hesitates at intersections), and energy management for electrified vehicles (saving watts like a pro).
 
