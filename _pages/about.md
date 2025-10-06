@@ -23,6 +23,7 @@ My research lives at the crossroads of reinforcement learning (RL) and autonomou
 
 
 # 💬 News
+- *2025.09*: &nbsp;🎉🎉 Our paper on Uncertainty-driven active RL for EMS has been accepted by IEEE T-TE!
 - *2025.07*: &nbsp;🎉🎉 Our paper on Human-in-the-loop adversarial RL with diffusion policy has been accepted by IEEE T-ITS!
 - *2025.07*: &nbsp;🎉🎉 Our paper on Adaptative rollout model-based policy optimization has been accepted by IEEE T-TE!
 - *2025.07*: &nbsp;🎉🎉 Our paper on Trust-calibrated human-in-the-loop reinforcement learning has been accepted by IEEE IOT-J!
@@ -108,7 +109,8 @@ My research lives at the crossroads of reinforcement learning (RL) and autonomou
 -  [Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/document/11083629), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu. **IEEE Transactions on Transportation Electrification (T-TE), 2025**
 - [Trust-Calibrated Human-in-the-Loop Reinforcement Learning for Safe and Efficient Autonomous Navigation](https://ieeexplore.ieee.org/document/11079651), **Dong Hu**, Guanzhong Zhou, Jingda Wu, Chao Huang. **IEEE Internet of Things Journal (IOT-J), 2025**
 - [“Feariosity”-Guided Reinforcement Learning for Safe and Efficient Autonomous End-to-end Navigation](https://ieeexplore.ieee.org/abstract/document/11027413), **Dong Hu**, Longfei Mo, Jingda Wu, Chao Huang. **IEEE Robotics and Automation Letters (RA-L), 2025**
-- [Enhancing data-driven energy management strategy via digital expert guidance for electrified vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924025224), **Dong Hu**, Chao Huang, Jingda Wu, Henglai Wei, Dawei Pi **Applied Energy, 2025**
+- [Uncertainty-driven Active Reinforcement Learning for Energy Management Strategy in Electrified Vehicles](https://ieeexplore.ieee.org/abstract/document/11180060), **Dong Hu**, Chao Huang, Jingda Wu, Henglai Wei, Dawei Pi **Applied Energy, 2025**
+- [Enhancing Data-driven Energy Management Strategy via Digital Expert Guidance for Electrified Vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924025224), **Dong Hu**, Cheng Tian, Anh-Tu Nguyen, Chao Huang **IEEE Transactions on Transportation Electrification (T-TE), 2025**
 - [A transfer-based reinforcement learning collaborative energy management strategy for extended-range electric buses with cabin temperature comfort consideration](https://www.sciencedirect.com/science/article/pii/S0360544223034916), **Dong Hu**, Chao Huang, Guodong Yin, Yangmin Li, Yue Huang, Hailong Huang, Jingda Wu, Wenfei Li, Hui Xie **Energy, 2023**
 - [An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle](https://www.sciencedirect.com/science/article/pii/S0306261923005913), **Dong Hu**, Hui Xie, Kang Song, Yuanyuan Zhang, Long Yan, **Applied Energy, 2023**
 - [Deep reinforcement learning based on driver experience embedding for energy management strategies in hybrid electric vehicles](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ente.202200123), **Dong Hu**, Yuanyuan Zhang, **Energy Technology, 2022**
