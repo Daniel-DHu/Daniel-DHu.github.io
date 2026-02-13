@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a PhD candidate in the Department of Industrial and Systems Engineering (ISE) at The Hong Kong Polytechnic University (PolyU), where I hang out in the [Human-Oriented Intelligent Systems Lab (HOIS)](https://www.chaohuang.net/) under the wise (and patient) guidance of Dr. Chao Huang. 
+I’m currently a PhD candidate in the Department of Industrial and Systems Engineering (ISE) at The Hong Kong Polytechnic University (PolyU), where I hang out in the [Human-Oriented Intelligent Systems Lab (HOIS)](https://www.chaohuang.net/) under the wise supervision of Dr. Chao Huang. I am currently visiting the [Robot Perception and Learning Lab](https://rpl-as-ucl.github.io/) at University College London Under the guidance of Prof. [Dimitrios Kanoulas](https://dkanou.github.io/).
 
-My research lives at the crossroads of reinforcement learning (RL) and autonomous vehicles (AVs)—think of it as teaching cars to be smarter, safer, and thriftier, all without needing coffee breaks. Specifically, I’m diving into RL, motion planning for AVs (because nobody likes a car that hesitates at intersections), and energy management for electrified vehicles (saving watts like a pro).
+My research lives at the crossroads of autonomous vehicle/robot and AI—think of it as teaching agents to be smarter, safer, and thriftier, all without needing coffee breaks. Specifically, I’m diving into RL, motion planning for agents (because nobody likes a car that hesitates at intersections), and energy management for electrified vehicles (saving watts like a pro).
 
 
 # 💬 News
