@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m currently a PhD candidate in the Department of Industrial and Systems Engineering (ISE) at The Hong Kong Polytechnic University (PolyU), where I hang out in the [Human-Oriented Intelligent Systems Lab (HOIS)](https://www.chaohuang.net/) under the wise supervision of Dr. Chao Huang. I am currently visiting the [Robot Perception and Learning Lab](https://rpl-as-ucl.github.io/) at University College London Under the guidance of Prof. [Dimitrios Kanoulas](https://dkanou.github.io/).
+I received my Ph.D. from the Department of Industrial and Systems Engineering at The Hong Kong Polytechnic University, under the supervision of Dr. [Chao Huang](https://www.chaohuang.net/). I also visited the Robot Perception and Learning Lab at University College London, working under the guidance of Prof. [Dimitrios Kanoulas](https://dkanou.github.io/).
 
-My research lives at the crossroads of autonomous vehicle/robot and AI—think of it as teaching agents to be smarter, safer, and thriftier, all without needing coffee breaks. Specifically, I’m diving into RL, motion planning for agents (because nobody likes a car that hesitates at intersections), and energy management for electrified vehicles (saving watts like a pro).
+My research sits at the intersection of robotics and AI. I am particularly interested in robot navigation, low-altitude economy, and Physical AI. My goal is to build robots and autonomous agents that can understand their own capabilities and limitations, reflect on their actions, actively learn from interaction, and continuously improve while operating safely and efficiently in complex real-world environments.
 
 
 # 💬 News
@@ -116,8 +116,10 @@ My research lives at the crossroads of autonomous vehicle/robot and AI—think o
 - [Deep reinforcement learning based on driver experience embedding for energy management strategies in hybrid electric vehicles](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ente.202200123), **Dong Hu**, Yuanyuan Zhang, **Energy Technology, 2022**
 - [Effect of spherical-convex surface texture on tribological performance of water-lubricated bearing](https://www.sciencedirect.com/science/article/abs/pii/S0301679X19300751), **Dong Hu**, Zhiwei Guo, Xin Xie, Chengqing Yuan, **Tribology International, 2019**
 - [A Novel Hydrophilic PVA Fiber Reinforced Thermoplastic Polyurethane Materials for Water-lubricated Stern Bearing](https://link.springer.com/article/10.1007/s12221-021-0013-2), **Dong Hu**, Zhiwei Guo, Tian Jun, Chengqing Yuan, **Fibers and Polymers, 2021**
+  
 
 ## Conference
+- Generalizing Autonomous Navigation via Human-Guided Diffusion Policies with Adversarial Reinforcement Learning, **Dong Hu**, Yangyang Zhou, Fengqing Hu, Chao Huang, Jingda Wu, Andrey V Savkin, **2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC), 2025**
 - Enhancing autonomous driving following motion decision-making through model-based policy optimization, **Dong Hu**, Zhipeng Shen, Chao Huang, Hailong Huang, **International Conference on Electric Vehicle and Vehicle Engineering (CEVVE 2023), 2023**
 - An Iterative Optimization Algorithm for Vehicle Speed Prediction Considering Driving Style and Historical Data Effects, Hui Xie, **Dong Hu**, Kang Song, **40th Chinese Control Conference (CCC), 2021**
 
@@ -133,12 +135,9 @@ My research lives at the crossroads of autonomous vehicle/robot and AI—think o
 
 # 📚 Academic Services
 *Journal Reviewer*
-- IEEE Transactions on Intelligent Vehicles (T-IV)
-- IEEE Transactions on Mobile Computing (T-MC)
-- IEEE Transactions on Vehicular Technology (T-VT)
-- IEEE Transactions on Automation Science and Engineering (T-ASE)
-- Applied Energy
-- Energy
+- IEEE Transactions on Mobile Computing (T-MC), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE Robotics and Automation Letters (RA-L)
+- IEEE Transactions on Intelligent Transportation Systems (T-ITS), IEEE Transactions on Vehicular Technology (T-VT), IEEE Transactions on Intelligent Vehicles (T-IV)
+- Scientific Reports, Applied Energy, Energy, EAAI
 
 *Conference Reviewer*
 - IEEE Intelligent Transportation Systems Conference (ITSC) 2024 – 2025
