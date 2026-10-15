@@ -88,10 +88,6 @@ My research sits at the intersection of robotics and AI. I am particularly inter
 - *2025.07*: &nbsp;🎉🎉 Our paper about Generalizing navigation has been accepted by ITSC 2025, See you on the Gold Coast!
 - *2025.05*: &nbsp;🎉🎉 Our paper on “Feariosity”-guided reinforcement learning has been accepted by IEEE RA-L!
 - *2025.04*: &nbsp;🎓🎓 Congratulations on completing my PhD confirmation, and becoming a PhD candidate!
-- *2024.11*: &nbsp;🎉🎉 Our paper on expert-guided EMS for electrified vehicles has been accepted by Applied Energy (APEN)!
-- *2023.12*: &nbsp;🎉🎉 Our paper on Transfer-based reinforcement learning for energy management has been accepted by Energy!
-- *2023.11*: &nbsp;🎉🎉 I have honored with the Best Student Paper Award at the conference [CEVVE](https://www.cevve.org/) held in Shenzhen, China. 
-- *2023.09*: &nbsp;🎉🎉 I have joined PolyU and am about to embark on my PhD career. Wishing me a bright future!
 
 
 
@@ -126,34 +122,6 @@ My research sits at the intersection of robotics and AI. I am particularly inter
 [“Feariosity”-Guided Reinforcement Learning for Safe and Efficient Autonomous End-to-end Navigation](https://ieeexplore.ieee.org/abstract/document/11027413), **Dong Hu**, Longfei Mo, Jingda Wu, Chao Huang.
 **IEEE Robotics and Automation Letters (RA-L), 2025**
 -  Inspired by this scientific insight, we propose the “Feariosity” model, which integrates fear and curiosity model to simulate the complex psychological dynamics organisms experience during exploration. Based on this model, we also developed an innovative policy constraint and a new experience replay mechanism.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN'25</div><img src='images/EGRL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Enhancing data-driven energy management strategy via digital expert guidance for electrified vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924025224), **Dong Hu**, Chao Huang, Jingda Wu etc.
-**Applied Energy, 2025**
--  This study proposes a new energy management strategy framework that combines digital expert guidance.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EGY'24</div><img src='images/TRL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[A transfer-based reinforcement learning collaborative energy management strategy for extended-range electric buses with cabin temperature comfort consideration](https://www.sciencedirect.com/science/article/pii/S0360544223034916), **Dong Hu**, Chao Huang, etc.
-
-**Energy, 2023**
--  We propose a collaborative energy management strategy for air conditioning and power systems based on transfer-based reinforcement learning framework.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">APEN'23</div><img src='images/ARL.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle](https://www.sciencedirect.com/science/article/pii/S0306261923005913), **Dong Hu**, Hui Xie, etc.
-
-**Applied Energy, 2023**
--  We propose an apprenticeship-reinforcement learning (A-RL) framework based on expert demonstration model learned by domain adaptive meta-learning (DAML).
 </div>
 </div>
 
