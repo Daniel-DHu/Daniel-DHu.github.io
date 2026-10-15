@@ -15,6 +15,63 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+.paper-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.2rem;
+  margin: 1.5rem 0;
+  padding: 1.1rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.paper-box-image {
+  flex: 0 0 30%;
+  max-width: 260px;
+}
+
+.paper-box-image img {
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+}
+
+.paper-box-text {
+  flex: 1;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  margin-bottom: 0.4rem;
+  border-radius: 999px;
+  background: #1f6feb;
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.news-list li,
+.pub-list li {
+  margin-bottom: 0.55rem;
+}
+
+@media (max-width: 768px) {
+  .paper-box {
+    flex-direction: column;
+  }
+
+  .paper-box-image {
+    max-width: 100%;
+    flex: 0 0 auto;
+  }
+}
+</style>
+
 <span class='anchor' id='about-me'></span>
 
 I received my Ph.D. from the Department of Industrial and Systems Engineering at The Hong Kong Polytechnic University, under the supervision of Dr. [Chao Huang](https://www.chaohuang.net/). I also visited the Robot Perception and Learning Lab at University College London, working under the guidance of Prof. [Dimitrios Kanoulas](https://dkanou.github.io/).
@@ -23,18 +80,19 @@ My research sits at the intersection of robotics and AI. I am particularly inter
 
 
 # 💬 News
+- *2026.09*: &nbsp;🎓🎓 I have completed my PhD oral defense!
 - *2025.09*: &nbsp;🎉🎉 Our paper on Uncertainty-driven active RL for EMS has been accepted by IEEE T-TE!
 - *2025.07*: &nbsp;🎉🎉 Our paper on Human-in-the-loop adversarial RL with diffusion policy has been accepted by IEEE T-ITS!
-- *2025.07*: &nbsp;🎉🎉 Our paper on Adaptative rollout model-based policy optimization has been accepted by IEEE T-TE!
+- *2025.07*: &nbsp;🎉🎉 Our paper on Adaptive rollout model-based policy optimization has been accepted by IEEE T-TE!
 - *2025.07*: &nbsp;🎉🎉 Our paper on Trust-calibrated human-in-the-loop reinforcement learning has been accepted by IEEE IOT-J!
 - *2025.07*: &nbsp;🎉🎉 Our paper about Generalizing navigation has been accepted by ITSC 2025, See you on the Gold Coast!
 - *2025.05*: &nbsp;🎉🎉 Our paper on “Feariosity”-guided reinforcement learning has been accepted by IEEE RA-L!
-- *2025.04*: &nbsp;🎉🎉 Congratulations on completing my PhD confirmation, and becoming a PhD candidate!
+- *2025.04*: &nbsp;🎓🎓 Congratulations on completing my PhD confirmation, and becoming a PhD candidate!
 - *2024.11*: &nbsp;🎉🎉 Our paper on expert-guided EMS for electrified vehicles has been accepted by Applied Energy (APEN)!
 - *2023.12*: &nbsp;🎉🎉 Our paper on Transfer-based reinforcement learning for energy management has been accepted by Energy!
 - *2023.11*: &nbsp;🎉🎉 I have honored with the Best Student Paper Award at the conference [CEVVE](https://www.cevve.org/) held in Shenzhen, China. 
 - *2023.09*: &nbsp;🎉🎉 I have joined PolyU and am about to embark on my PhD career. Wishing me a bright future!
-- *2023.04*: &nbsp;🎉🎉 Our paper on Apprenticeship-reinforcement learning for EMS has been accepted by Applied Energy (APEN)!
+
 
 
 # 🔥 Highlights 
@@ -51,7 +109,7 @@ My research sits at the intersection of robotics and AI. I am particularly inter
 <div class='paper-box-text' markdown="1">
 [Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/document/11083629), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu.
 **IEEE Transactions on Transportation Electrification (T-TE), 2025**
--  We propose an adaptive rollout model-based policy optimization (AR-MBPO) algorithm tailored for car-following motion planning in autonomous electric vehicles. The algorithm improves overall performance by incorporating a error-aware ensemble environment model and leveraging branched rollouts for efficient sample collection and policy optimization.
+-  We propose an adaptive rollout model-based policy optimization (AR-MBPO) algorithm tailored for car-following motion planning in autonomous electric vehicles. The algorithm improves overall performance by incorporating ans error-aware ensemble environment model and leveraging branched rollouts for efficient sample collection and policy optimization.
 </div>
 </div>
 
@@ -128,8 +186,8 @@ My research sits at the intersection of robotics and AI. I am particularly inter
 - 2021.06 World Intelligent Driving "HUAWEI MDC Cup" Extreme Challenge competition, Gold Medal
 - 2020.06 World Intelligent Driving Challenge competition, Excellence Award
 
-# 📖 Educations
-- *2023.09 - Today*, PhD, The Hong Kong Polytechnic University, Hong Kong, China
+# 📖 Education
+- *2023.09 - 2026.09*, PhD, The Hong Kong Polytechnic University, Hong Kong, China
 - *2020.09 - 2023.03*, Master of Engineering, Power mechanical engineering , Tianjin University, Tianjin, China
 - *2016.09 - 2020.06*, Bachelor of Engineering, Marine Engineering, Wuhan University of technology, Wuhan, China
 
