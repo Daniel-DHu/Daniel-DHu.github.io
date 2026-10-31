@@ -80,11 +80,12 @@ My research sits at the intersection of robotics and AI. I am particularly inter
 
 
 # 💬 News
-- *2026.09*: &nbsp;🎓🎓 I have completed my PhD oral defense!
+- *2026.10*: &nbsp;🎉🎉 Our paper on Game-Theoretic Risk-Shaped RL has been accepted by IEEE T-NNLS!
+- *2026.09*: &nbsp;🎓🎓 I have completed my PhD oral defense. Wishing me a bright future!
 - *2025.09*: &nbsp;🎉🎉 Our paper on Uncertainty-driven active RL for EMS has been accepted by IEEE T-TE!
 - *2025.07*: &nbsp;🎉🎉 Our paper on Human-in-the-loop adversarial RL with diffusion policy has been accepted by IEEE T-ITS!
 - *2025.07*: &nbsp;🎉🎉 Our paper on Adaptive rollout model-based policy optimization has been accepted by IEEE T-TE!
-- *2025.07*: &nbsp;🎉🎉 Our paper on Trust-calibrated human-in-the-loop reinforcement learning has been accepted by IEEE IOT-J!
+- *2025.07*: &nbsp;🎉🎉 Our paper on Trust-calibrated human-in-the-loop RL has been accepted by IEEE IOT-J!
 - *2025.07*: &nbsp;🎉🎉 Our paper about Generalizing navigation has been accepted by ITSC 2025, See you on the Gold Coast!
 - *2025.05*: &nbsp;🎉🎉 Our paper on “Feariosity”-guided reinforcement learning has been accepted by IEEE RA-L!
 - *2025.04*: &nbsp;🎓🎓 Congratulations on completing my PhD confirmation, and becoming a PhD candidate!
