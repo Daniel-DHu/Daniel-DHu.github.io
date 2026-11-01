@@ -105,8 +105,8 @@ My research sits at the intersection of robotics and AI. I am particularly inter
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS'26</div><img src='images/GTR2L.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Game-Theoretic Risk-Shaped Reinforcement Learning for Safe Autonomous Driving](https://arxiv.org/abs/2510.10960), **Dong Hu**, Fenqing Hu, Lidong Yang and Chao Huang.
-**IEEE Transactions on Neural Networks and Learning Systems, 2026 (Accepted)**
-- A game-theoretic risk-shaped reinforcement learning (GTRL2) framework is proposed for safe autonomous driving. It builds a multi-level game-theoretic world model to predict interactive vehicle behaviors and associated risks, with an adaptive rollout horizon adjusted by prediction uncertainty. An uncertainty-aware barrier mechanism flexibly regulates safety boundaries, explicitly modeling both epistemic and aleatory uncertainty for constrained policy optimization. Extensive tests show reduced collisions and traffic violations while preserving driving efficiency.
+**IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2026 (Accepted)**
+- A game-theoretic risk-shaped RL (GTRL2) framework is proposed for safe autonomous driving. It builds a multi-level game-theoretic world model to predict interactive vehicle behaviors and associated risks, with an adaptive rollout horizon adjusted by prediction uncertainty. An uncertainty-aware barrier mechanism flexibly regulates safety boundaries, explicitly modeling both epistemic and aleatory uncertainty for constrained policy optimization. 
 </div>
 </div>
 
@@ -146,6 +146,8 @@ My research sits at the intersection of robotics and AI. I am particularly inter
 # 📝 Publications 
 ## Journal
 
+- [Game-Theoretic Risk-Shaped Reinforcement Learning for Safe Autonomous Driving](https://arxiv.org/abs/2510.10960), **Dong Hu**, Fenqing Hu, Lidong Yang and Chao Huang.
+**IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2026**
 - [Towards Multi-Task Generalization in Autonomous Navigation: a Human-in-the-Loop Adversarial Reinforcement Learning with Diffusion Policy](https://ieeexplore.ieee.org/document/11106367), **Dong Hu**, Chao Huang, Jingda Wu and Xin Yuan. **IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2025**
 -  [Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/document/11083629), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu. **IEEE Transactions on Transportation Electrification (T-TE), 2025**
 - [Trust-Calibrated Human-in-the-Loop Reinforcement Learning for Safe and Efficient Autonomous Navigation](https://ieeexplore.ieee.org/document/11079651), **Dong Hu**, Guanzhong Zhou, Jingda Wu, Chao Huang. **IEEE Internet of Things Journal (IOT-J), 2025**
