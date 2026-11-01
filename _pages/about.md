@@ -94,6 +94,21 @@ My research sits at the intersection of robotics and AI. I am particularly inter
 
 # 🔥 Highlights 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI'26</div><img src='images/SAGE.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Self-Aware Active Learning Enables Continual Improvement in Autonomous Driving](https://arxiv.org/abs/2608.29772), **Dong Hu**, Chao Huang, Carman K.M. Lee and Dimitrios Kanoulas.
+**Preprint**
+- We present a self-aware guided exploration (SAGE) active learning framework for post-training adaptation of autonomous driving systems. SAGE learns a predictive world model to produce two intrinsic signals: fear for short-horizon risk and uncertainty, and curiosity for novelty. Curiosity adaptively calibrates the fear threshold to trigger expert takeover, and high-value takeover trajectories are reused for targeted imitation learning, mitigating long-tail failures and enabling closed-loop continual improvement.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS'26</div><img src='images/GTR2L.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Game-Theoretic Risk-Shaped Reinforcement Learning for Safe Autonomous Driving](https://arxiv.org/abs/2510.10960), **Dong Hu**, Fenqing Hu, Lidong Yang and Chao Huang.
+**IEEE Transactions on Neural Networks and Learning Systems, 2026 (Accepted)**
+- A game-theoretic risk-shaped reinforcement learning (GTRL2) framework is proposed for safe autonomous driving. It builds a multi-level game-theoretic world model to predict interactive vehicle behaviors and associated risks, with an adaptive rollout horizon adjusted by prediction uncertainty. An uncertainty-aware barrier mechanism flexibly regulates safety boundaries, explicitly modeling both epistemic and aleatory uncertainty for constrained policy optimization. Extensive tests show reduced collisions and traffic violations while preserving driving efficiency.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ITS'25</div><img src='images/frame_HardP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
