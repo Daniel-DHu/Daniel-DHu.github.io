@@ -94,7 +94,7 @@ My research sits at the intersection of robotics and AI. I am particularly inter
 
 # 🔥 Highlights 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI'26</div><img src='images/SAGE.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv'26</div><img src='images/SAGE.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Self-Aware Active Learning Enables Continual Improvement in Autonomous Driving](https://arxiv.org/abs/2608.29772), **Dong Hu**, Chao Huang, Carman K.M. Lee and Dimitrios Kanoulas.
 **Preprint**
