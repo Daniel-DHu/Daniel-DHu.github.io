@@ -7,19 +7,50 @@ html {
   min-height: 100%;
 }
 
+// body {
+//   margin: 0;
+//   padding: 0;
+//   padding-bottom: 0em;
+//   color: $text-color;
+//   font-family: $global-font-family;
+//   line-height: 1.5;
+
+//   &.overflow--hidden {
+//     /* when primary navigation is visible, the content in the background won't scroll */
+//     overflow: hidden;
+//   }
+// }
+
 body {
   margin: 0;
   padding: 0;
   padding-bottom: 0em;
+  position: relative;
+  overflow-x: hidden;
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
+  background-color: #020617;
+  background-image:
+    linear-gradient(rgba(56, 189, 248, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(56, 189, 248, 0.045) 1px, transparent 1px),
+    radial-gradient(circle at 20% 20%, rgba(56, 189, 248, 0.18), transparent 28rem),
+    radial-gradient(circle at 80% 0%, rgba(168, 85, 247, 0.14), transparent 24rem),
+    radial-gradient(circle at 1px 1px, rgba(255, 255, 255, 0.24) 1px, transparent 0);
+  background-size:
+    48px 48px,
+    48px 48px,
+    auto,
+    auto,
+    36px 36px;
+  background-attachment: fixed;
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
 }
+
 
 h1, h2, h3, h4, h5, h6 {
   margin: 1em 0 0.5em;
