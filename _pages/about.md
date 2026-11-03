@@ -74,9 +74,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. from the Department of Industrial and Systems Engineering at The Hong Kong Polytechnic University, under the supervision of Dr. [Chao Huang](https://www.chaohuang.net/). I also visited the Robot Perception and Learning Lab at University College London, working under the guidance of Prof. [Dimitrios Kanoulas](https://dkanou.github.io/).
+🎓 I received my Ph.D. from the Department of Industrial and Systems Engineering at The Hong Kong Polytechnic University, under the supervision of Dr. [Chao Huang](https://www.chaohuang.net/). I also visited the Robot Perception and Learning Lab at University College London, where I worked with Prof. [Dimitrios Kanoulas](https://dkanou.github.io/).
 
-My research sits at the intersection of robotics and AI. I am particularly interested in robot navigation, low-altitude economy, and Physical AI. My goal is to build robots and autonomous agents that can understand their own capabilities and limitations, reflect on their actions, actively learn from interaction, and continuously improve while operating safely and efficiently in complex real-world environments.
+🤖 My research lies at the intersection of **robotics**, **artificial intelligence**, and **autonomous systems**. I aim to build embodied agents that can perceive, reason, learn, and act efficiently in complex physical environments.
+
+🧠 I am particularly interested in enabling autonomous agents to develop **self-awareness**, **self-reflection**, **deliberative reasoning**, **active learning**, and **continual improvement** capabilities, so that they can better understand their own capabilities and limitations.
+
+🌍 I also study efficient long-horizon **world models** that allow agents to simulate future scenarios, reason over extended time horizons, and anticipate potential risks beyond their immediate sensing range.
+
+📚 More broadly, I investigate efficient and adaptive learning methods that enable robots to rapidly adapt with limited supervision, learn from human feedback and demonstrations, and improve through real-world interaction.
+
+🚗 My research covers **mobile robots**, **autonomous driving systems**, and **low-altitude aerial vehicles**, with a focus on **robot navigation**, **efficient decision-making**, and **motion planning** in complex, dynamic, and safety-critical environments.
 
 
 # 💬 News
