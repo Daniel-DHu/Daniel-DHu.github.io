@@ -50,6 +50,50 @@ body {
     overflow: hidden;
   }
 }
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 160px;
+  height: 1px;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0;
+  background: linear-gradient(90deg, rgba(186, 230, 253, 0.95), transparent);
+  box-shadow: 0 0 12px rgba(125, 211, 252, 0.75);
+  transform: rotate(-28deg);
+  animation: meteor 9s linear infinite;
+}
+
+@keyframes meteor {
+  0% {
+    opacity: 0;
+    transform: translate3d(95vw, -10vh, 0) rotate(-28deg);
+  }
+
+  8% {
+    opacity: 1;
+  }
+
+  18% {
+    opacity: 0;
+    transform: translate3d(-15vw, 75vh, 0) rotate(-28deg);
+  }
+
+  100% {
+    opacity: 0;
+    transform: translate3d(-15vw, 75vh, 0) rotate(-28deg);
+  }
+}
+.masthead,
+.sidebar,
+.page,
+.page__footer {
+  position: relative;
+  z-index: 1;
+}
+
 
 
 h1, h2, h3, h4, h5, h6 {
