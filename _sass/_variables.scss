@@ -58,19 +58,19 @@ $darker-gray                : #e2e8f0;
 $light-gray                 : #334155;
 $lighter-gray               : #1e293b;
 
-$body-color                 : #020617;
-$background-color           : #020617;
-$code-background-color      : #0f172a;
-$code-background-color-dark : #1e293b;
-$text-color                 : #cbd5e1;
-$border-color               : rgba(148, 163, 184, 0.22);
+$body-color                 : #fff;
+$background-color           : #fff;
+$code-background-color      : #fafafa;
+$code-background-color-dark : $light-gray;
+$text-color                 : $dark-gray;
+$border-color               : $lighter-gray;
 
-$primary-color              : #38bdf8;
-$success-color              : #22c55e;
-$warning-color              : #f59e0b;
-$danger-color               : #ef4444;
-$info-color                 : #60a5fa;
-// $info-color                 : #52adc8;
+$primary-color             : #7a8288;
+$success-color             : #62c462;
+$warning-color             : #f89406;
+$danger-color              : #ee5f5b;
+$info-color                : #224b8d;
+// $info-color : #52adc8;
 
 /* brands */
 $behance-color              : #1769FF;
