@@ -84,7 +84,7 @@ redirect_from:
 
 📚 More broadly, I investigate efficient and adaptive learning methods that enable robots to rapidly adapt with limited supervision, learn from human feedback and demonstrations, and improve through real-world interaction.
 
-🚗 My research covers **mobile robots**, **autonomous driving systems**, and **low-altitude aerial vehicles**, with a focus on robot navigation, efficient decision-making, and motion planning in complex, dynamic, and safety-critical environments.
+🚗 My research covers **mobile robots**, **autonomous driving**, and **low-altitude aerial vehicles**, with a focus on robot navigation, efficient decision-making, and motion planning in complex, dynamic, and safety-critical environments.
 
 
 # 💬 News
