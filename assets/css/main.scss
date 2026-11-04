@@ -135,3 +135,61 @@ h1:before, .anchor:before {
 .paper-btn i {
   color: #000;
 }
+
+
+<style>
+.paper-box {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.2rem;
+  margin: 1.5rem 0;
+  padding: 1.1rem;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  background: #ffffff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.paper-box-image {
+  flex: 0 0 30%;
+  max-width: 260px;
+}
+
+.paper-box-image img {
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+}
+
+.paper-box-text {
+  flex: 1;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.6rem;
+  margin-bottom: 0.4rem;
+  border-radius: 999px;
+  background: #1f6feb;
+  color: #ffffff;
+  font-size: 0.75rem;
+  font-weight: 700;
+}
+
+.news-list li,
+.pub-list li {
+  margin-bottom: 0.55rem;
+}
+
+@media (max-width: 768px) {
+  .paper-box {
+    flex-direction: column;
+  }
+
+  .paper-box-image {
+    max-width: 100%;
+    flex: 0 0 auto;
+  }
+}
+</style>
