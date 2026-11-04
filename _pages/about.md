@@ -114,6 +114,9 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 [Game-Theoretic Risk-Shaped Reinforcement Learning for Safe Autonomous Driving](https://arxiv.org/abs/2510.10960), **Dong Hu**, Fenqing Hu, Lidong Yang and Chao Huang.
 **IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2026 (Accepted)**
+<a href="https://github.com/Daniel-DHu/GTR2L" target="_blank" class="paper-link">
+  <i class="fab fa-github"></i> Code
+</a>
 - A game-theoretic risk-shaped RL (GTRL2) framework is proposed for safe autonomous driving. It builds a multi-level game-theoretic world model to predict interactive vehicle behaviors and associated risks, with an adaptive rollout horizon adjusted by prediction uncertainty. An uncertainty-aware barrier mechanism flexibly regulates safety boundaries, explicitly modeling both epistemic and aleatory uncertainty for constrained policy optimization. 
 </div>
 </div>
@@ -146,6 +149,9 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 [Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/document/11083629), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu.
 **IEEE Transactions on Transportation Electrification (T-TE), 2025**
+<a href="https://github.com/Daniel-DHu/RL-Eco-follower" target="_blank" class="paper-link">
+  <i class="fab fa-github"></i> Code
+</a>
 -  We propose an adaptive rollout model-based policy optimization (AR-MBPO) algorithm tailored for car-following motion planning in autonomous electric vehicles. The algorithm improves overall performance by incorporating ans error-aware ensemble environment model and leveraging branched rollouts for efficient sample collection and policy optimization.
 </div>
 </div>
@@ -160,18 +166,18 @@ redirect_from:
 -  [Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/document/11083629), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu. **IEEE Transactions on Transportation Electrification (T-TE), 2025**
 - [Trust-Calibrated Human-in-the-Loop Reinforcement Learning for Safe and Efficient Autonomous Navigation](https://ieeexplore.ieee.org/document/11079651), **Dong Hu**, Guanzhong Zhou, Jingda Wu, Chao Huang. **IEEE Internet of Things Journal (IOT-J), 2025**
 - [“Feariosity”-Guided Reinforcement Learning for Safe and Efficient Autonomous End-to-end Navigation](https://ieeexplore.ieee.org/abstract/document/11027413), **Dong Hu**, Longfei Mo, Jingda Wu, Chao Huang. **IEEE Robotics and Automation Letters (RA-L), 2025**
-- [Uncertainty-driven Active Reinforcement Learning for Energy Management Strategy in Electrified Vehicles](https://ieeexplore.ieee.org/abstract/document/11180060), **Dong Hu**, Cheng Tian, Anh-Tu Nguyen, Chao Huang **IEEE Transactions on Transportation Electrification (T-TE), 2025**
-- [Enhancing Data-driven Energy Management Strategy via Digital Expert Guidance for Electrified Vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924025224), **Dong Hu**, Chao Huang, Jingda Wu, Henglai Wei, Dawei Pi **Applied Energy, 2025**
-- [A transfer-based reinforcement learning collaborative energy management strategy for extended-range electric buses with cabin temperature comfort consideration](https://www.sciencedirect.com/science/article/pii/S0360544223034916), **Dong Hu**, Chao Huang, Guodong Yin, Yangmin Li, Yue Huang, Hailong Huang, Jingda Wu, Wenfei Li, Hui Xie **Energy, 2023**
-- [An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle](https://www.sciencedirect.com/science/article/pii/S0306261923005913), **Dong Hu**, Hui Xie, Kang Song, Yuanyuan Zhang, Long Yan, **Applied Energy, 2023**
-- [Deep reinforcement learning based on driver experience embedding for energy management strategies in hybrid electric vehicles](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ente.202200123), **Dong Hu**, Yuanyuan Zhang, **Energy Technology, 2022**
-- [Effect of spherical-convex surface texture on tribological performance of water-lubricated bearing](https://www.sciencedirect.com/science/article/abs/pii/S0301679X19300751), **Dong Hu**, Zhiwei Guo, Xin Xie, Chengqing Yuan, **Tribology International, 2019**
-- [A Novel Hydrophilic PVA Fiber Reinforced Thermoplastic Polyurethane Materials for Water-lubricated Stern Bearing](https://link.springer.com/article/10.1007/s12221-021-0013-2), **Dong Hu**, Zhiwei Guo, Tian Jun, Chengqing Yuan, **Fibers and Polymers, 2021**
+- [Uncertainty-driven Active Reinforcement Learning for Energy Management Strategy in Electrified Vehicles](https://ieeexplore.ieee.org/abstract/document/11180060), **Dong Hu**, Cheng Tian, Anh-Tu Nguyen, Chao Huang. **IEEE Transactions on Transportation Electrification (T-TE), 2025**
+- [Enhancing Data-driven Energy Management Strategy via Digital Expert Guidance for Electrified Vehicles](https://www.sciencedirect.com/science/article/pii/S0306261924025224), **Dong Hu**, Chao Huang, Jingda Wu, Henglai Wei, Dawei Pi. **Applied Energy, 2025**
+- [A transfer-based reinforcement learning collaborative energy management strategy for extended-range electric buses with cabin temperature comfort consideration](https://www.sciencedirect.com/science/article/pii/S0360544223034916), **Dong Hu**, Chao Huang, Guodong Yin, Yangmin Li, Yue Huang, Hailong Huang, Jingda Wu, Wenfei Li, Hui Xie. **Energy, 2023**
+- [An apprenticeship and reinforcement learning scheme based on expert demonstrations for energy management strategy of hybrid electric vehicle](https://www.sciencedirect.com/science/article/pii/S0306261923005913), **Dong Hu**, Hui Xie, Kang Song, Yuanyuan Zhang, Long Yan. **Applied Energy, 2023**
+- [Deep reinforcement learning based on driver experience embedding for energy management strategies in hybrid electric vehicles](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ente.202200123), **Dong Hu**, Yuanyuan Zhang. **Energy Technology, 2022**
+- [Effect of spherical-convex surface texture on tribological performance of water-lubricated bearing](https://www.sciencedirect.com/science/article/abs/pii/S0301679X19300751), **Dong Hu**, Zhiwei Guo, Xin Xie, Chengqing Yuan. **Tribology International, 2019**
+- [A Novel Hydrophilic PVA Fiber Reinforced Thermoplastic Polyurethane Materials for Water-lubricated Stern Bearing](https://link.springer.com/article/10.1007/s12221-021-0013-2), **Dong Hu**, Zhiwei Guo, Tian Jun, Chengqing Yuan. **Fibers and Polymers, 2021**
   
 
 ## Conference
-- Generalizing Autonomous Navigation via Human-Guided Diffusion Policies with Adversarial Reinforcement Learning, **Dong Hu**, Yangyang Zhou, Fengqing Hu, Chao Huang, Jingda Wu, Andrey V Savkin, **2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC), 2025**
-- Enhancing autonomous driving following motion decision-making through model-based policy optimization, **Dong Hu**, Zhipeng Shen, Chao Huang, Hailong Huang, **International Conference on Electric Vehicle and Vehicle Engineering (CEVVE 2023), 2023**
+- [Generalizing Autonomous Navigation via Human-Guided Diffusion Policies with Adversarial Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/11423599/), **Dong Hu**, Yangyang Zhou, Fengqing Hu, Chao Huang, Jingda Wu, Andrey V Savkin, **2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC), 2025**
+- [Enhancing autonomous driving following motion decision-making through model-based policy optimization](https://digital-library.theiet.org/doi/abs/10.1049/icp.2023.3356), **Dong Hu**, Zhipeng Shen, Chao Huang, Hailong Huang, **International Conference on Electric Vehicle and Vehicle Engineering (CEVVE 2023), 2023**
 - An Iterative Optimization Algorithm for Vehicle Speed Prediction Considering Driving Style and Historical Data Effects, Hui Xie, **Dong Hu**, Kang Song, **40th Chinese Control Conference (CCC), 2021**
 
 # 🎖 Honors and Awards
