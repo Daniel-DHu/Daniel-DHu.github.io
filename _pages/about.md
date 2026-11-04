@@ -114,7 +114,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 [Game-Theoretic Risk-Shaped Reinforcement Learning for Safe Autonomous Driving](https://arxiv.org/abs/2510.10960), **Dong Hu**, Fenqing Hu, Lidong Yang and Chao Huang.
 **IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2026 (Accepted)**
-<a href="https://github.com/Daniel-DHu/GTR2L" target="_blank" class="paper-link">
+<a href="https://github.com/Daniel-DHu/GTR2L" target="_blank" class="paper-btn" >
   <i class="fab fa-github"></i> Code
 </a>
 - A game-theoretic risk-shaped RL (GTRL2) framework is proposed for safe autonomous driving. It builds a multi-level game-theoretic world model to predict interactive vehicle behaviors and associated risks, with an adaptive rollout horizon adjusted by prediction uncertainty. An uncertainty-aware barrier mechanism flexibly regulates safety boundaries, explicitly modeling both epistemic and aleatory uncertainty for constrained policy optimization. 
@@ -149,7 +149,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 [Autonomous Driving Economic Car-following Motion Strategy based on Adaptive Rollout Model-based Policy Optimization](https://ieeexplore.ieee.org/document/11083629), **Dong Hu**, Chao Huang, Jing Zhao, Yifan Zhao and Jingda Wu.
 **IEEE Transactions on Transportation Electrification (T-TE), 2025**
-<a href="https://github.com/Daniel-DHu/RL-Eco-follower" target="_blank" class="paper-link">
+<a href="https://github.com/Daniel-DHu/RL-Eco-follower" target="_blank" class="paper-btn">
   <i class="fab fa-github"></i> Code
 </a>
 -  We propose an adaptive rollout model-based policy optimization (AR-MBPO) algorithm tailored for car-following motion planning in autonomous electric vehicles. The algorithm improves overall performance by incorporating ans error-aware ensemble environment model and leveraging branched rollouts for efficient sample collection and policy optimization.
