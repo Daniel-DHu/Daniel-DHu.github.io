@@ -107,3 +107,31 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+.paper-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25em;
+  padding: 0.15em 0.45em;
+  margin: 0.25em 0.4em 0.4em 0;
+  border: 1px solid #999;
+  border-radius: 3px;
+  background-color: #f2f2f2;
+  color: #333 !important;
+  font-size: 0.85em;
+  line-height: 1.2;
+  text-decoration: none !important;
+  vertical-align: middle;
+}
+
+.paper-btn:hover {
+  background-color: #e6e6e6;
+  border-color: #666;
+  color: #000 !important;
+  text-decoration: none !important;
+}
+
+.paper-btn i {
+  color: #000;
+}
