@@ -146,8 +146,5 @@ redirect_from:
 
 <br>
 <div class="visitor-map">
-  <a href="https://mapmyvisitors.com/web/1c9bq" title="Visit tracker">
-    <img src="https://mapmyvisitors.com/map.png?d=oq1shm0p_MflGVrTV_Cml53cj1_1E5ADmBSG1CmNN7s&cl=ffffff" alt="Visitor map" width="480">
-  </a>
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=oq1shm0p_MflGVrTV_Cml53cj1_1E5ADmBSG1CmNN7s&cl=ffffff&w=a"></script>
 </div>
-
