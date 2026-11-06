@@ -145,10 +145,9 @@ redirect_from:
 
 
 <br>
-<h2>Visitors</h2>
 <div class="visitor-map">
   <a href="https://mapmyvisitors.com/web/1c9bq" title="Visit tracker">
-    <img src="https://mapmyvisitors.com/map.png?d=oq1shm0p_MflGVrTV_Cml53cj1_1E5ADmBSG1CmNN7s&cl=ffffff" alt="Visitor map">
+    <img src="https://mapmyvisitors.com/map.png?d=oq1shm0p_MflGVrTV_Cml53cj1_1E5ADmBSG1CmNN7s&cl=ffffff" alt="Visitor map" width="480">
   </a>
 </div>
 
