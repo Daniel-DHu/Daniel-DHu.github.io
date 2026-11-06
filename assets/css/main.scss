@@ -168,11 +168,13 @@
 
 
 .visitor-map {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
   text-align: center;
 }
 
-.visitor-map img {
+.visitor-map img,
+.visitor-map canvas,
+.visitor-map iframe {
   max-width: 100%;
   height: auto;
 }
