@@ -40,131 +40,6 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// .paper-box {
-//     display: flex;
-//     justify-content: left;
-//     align-items: center;
-//     flex-direction: row;
-//     flex-wrap: wrap;
-//     border-bottom: 1px #efefef solid;
-//     padding: 2em 0 2em 0;
-    
-
-//     .paper-box-image{
-//         justify-content: center;
-//         display: flex;
-//         width: 100%;
-//         order: 2;
-//         img {
-//             max-width: 400px;
-//             box-shadow: 3px 3px 6px #888;
-//             object-fit: cover;
-//         }
-//     }
-    
-//     .paper-box-text{
-//         max-width: 100%;
-//         order: 1;
-//     }
-    
-//     @include breakpoint($medium) {
-//         .paper-box-image{
-//             justify-content: left;
-//             min-width: 200px;
-//             max-width: 40%;
-//             order: 1;
-//         }
-        
-//         .paper-box-text{
-//             justify-content: left;
-//             padding-left: 2em;
-//             max-width: 60%;
-//             order: 2;
-//         }
-
-//     }
-
-
-// }
-
-// $scroll_offset : 2em;
-// h1:before, .anchor:before { 
-//     content: ''; 
-//     display: block; 
-//     position: relative; 
-//     width: 0; 
-//     height: $scroll_offset; 
-//     margin-top: -$scroll_offset;
-// }
-
-// .badge {
-//     padding-left: 1rem;
-//     padding-right: 1rem;
-//     position: absolute;
-//     margin-top: .5em;
-//     margin-left: -.5em;
-//     color: white;
-//     background-color: #00369f;
-//     font-size: .8em;
-// }
-
-
-
-// .paper-box {
-//   display: flex;
-//   align-items: flex-start;
-//   gap: 1.2rem;
-//   margin: 1.5rem 0;
-//   padding: 1.1rem;
-//   border: 1px solid #e5e7eb;
-//   border-radius: 14px;
-//   background: #ffffff;
-//   box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
-// }
-
-// .paper-box-image {
-//   flex: 0 0 30%;
-//   max-width: 260px;
-// }
-
-// .paper-box-image img {
-//   border-radius: 10px;
-//   border: 1px solid #e5e7eb;
-// }
-
-// .paper-box-text {
-//   flex: 1;
-//   font-size: 0.95rem;
-//   line-height: 1.55;
-// }
-
-// .badge {
-//   display: inline-block;
-//   padding: 0.25rem 0.6rem;
-//   margin-bottom: 0.4rem;
-//   border-radius: 999px;
-//   background: #1f6feb;
-//   color: #ffffff;
-//   font-size: 0.75rem;
-//   font-weight: 700;
-// }
-
-// .news-list li,
-// .pub-list li {
-//   margin-bottom: 0.55rem;
-// }
-
-// @media (max-width: 768px) {
-//   .paper-box {
-//     flex-direction: column;
-//   }
-
-//   .paper-box-image {
-//     max-width: 100%;
-//     flex: 0 0 auto;
-//   }
-// }
-
 
 .paper-box {
   display: flex;
@@ -291,3 +166,17 @@
 }
 
 
+
+.visitor-map {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  text-align: center;
+  border-top: 1px solid #e5e7eb;
+}
+
+.visitor-map img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+}
